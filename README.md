@@ -13,4 +13,5 @@ So I cobbled this together.
 This extension will add an overlay for the combined unread message count across all
 mail accounts.
 
-There are no configuration options.
+A configuration panel lets you choose between counting messages in all folders, or
+to count the primary inbox only.
