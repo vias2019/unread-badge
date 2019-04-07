@@ -1,3 +1,5 @@
+# unread-badge
+
 This is a simple Thunderbird extension for displaying an unread mail message count
 on the Windows taskbar.
 
@@ -16,3 +18,10 @@ mail accounts.
 
 A configuration panel lets you choose between counting messages in all folders, or
 to count the primary inbox only.
+
+## Contributors
+
+- [@bstreiff](https://github.com/bstreiff/) initially threw it together and occasionally reviews PRs.
+- [@abcminiuser](https://github.com/abcminiuser) fixed filtering to ignore non-mail items.
+- [@homo-programmatis](https://github.com/homo-programmatis) fixed several longstanding compatibility issues, first with Thunderbird 38+ then with 60+.
+- [@jamesg-nz](https://github.com/jamesg-nz) added the first feature with a configuration UI; a way to count only the primary inbox.
