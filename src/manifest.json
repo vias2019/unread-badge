@@ -3,7 +3,7 @@
 	"applications": {
 		"gecko": {
 			"id": "unread-badge@streiff.net",
-			"strict_min_version": "68.0"
+			"strict_min_version": "88.0"
 		}
 	},
 	"name": "Unread Badge",
